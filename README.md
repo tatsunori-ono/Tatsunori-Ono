@@ -1,6 +1,6 @@
 Hi, I’m @Tatsunori-Ono
 
-Prove that my name is Tatsunori Ono, where Tatsunori is an element of complex human with real exsistance and imarginary minds.
+Proposition: prove that my name is Tatsunori Ono, where Tatsunori is an element of complex human with real exsistance and imarginary minds.
 
 Let name = Tatsunori, <br />
 LHS: Tatsunori <br />
