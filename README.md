@@ -1,4 +1,4 @@
-Hi, I’m @Tatsunori-Ono
+Hi, I’m @tatsunori-ono
 
 Proposition: prove that my name is Tatsunori Ono, where Tatsunori is an element of complex human with real exsistance and imarginary minds.
 
